@@ -112,9 +112,7 @@ h2 {
 }
 
 .contact {
-  display: inline-block;
-  text-align: top;
-  margin-top: 20px;
+  /* margin-top: 20px; */
   margin-bottom: 10px;
   color: #3d58a6;
   font-size: 25px;
@@ -125,14 +123,14 @@ span {
 }
 
 .cntct {
-  width: 300px;
+  width: 410px;
   font-size: 1.2em;
-  margin-block-start: 0.83em;
-  margin-block-end: 0.83em;
-  margin: 10px 20px 10px 45px;
-  line-height: 1.6;
-  display: inline;
-}
 
-.map {
+  margin: 0px 20px 10px 45px;
+  line-height: 1.6;
+  display: inline-block;
+}
+.contact-section {
+  background-color: #e6e6e6;
+  padding: 45px 0;
 }
